@@ -1,0 +1,544 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+  body{
+  background-color: #1C1C1C;
+  resolu
+
+}
+
+
+  #d{
+  width: 1290px;
+  height: 100px;
+  background-color: red;
+  border: 15px solid red;
+  cursor: pointer;
+  position: relative;
+  top: 10px;
+  left: 17px;	
+}
+
+   #hom{
+  width: 1290px;
+  height: 50px;
+  background-color: black;
+  border: 15px solid red;
+  cursor: pointer;
+  position: relative;
+  left: 17px;
+  color: white;  
+}
+
+   #hom > ul > li:hover{
+  //border-radius: 15px;
+  //background-color: blue;
+  color: white;
+  text-decoration: underline;
+  font-size: 22px;
+  position: relative;
+  top: 9px;
+    
+}
+
+  #hom > ul > li{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: 14px;
+  left: 33px; 
+  
+}
+
+  #CaixaConteudo{
+  width: 632px;
+  height: 401px;
+  border: 2px solid white;
+  position: relative;
+  top: -59px;
+  left: 17px;
+  
+  
+  }
+  
+  #DivBolha{
+  width: 632px;
+  height: 401px;
+  border: 2px solid white;
+  position: relative;
+  left: 700px;
+  top: -464px;
+  }
+  
+  #DivDentroBolha{
+  width: 2px;
+  height: 401px;
+  background-color: white;
+  position: relative;
+  right: 26px;
+  top: -307px;
+  
+  }
+  
+  #DivDentroBolha2{
+  width: 1317px;
+  height: 2px;
+  background-color: white;
+  position: relative;
+  top: -711px;
+  right: 685px;
+   
+  }
+  
+  #DivDentroBolha3{
+  width: 1319px;
+  height: 2px;
+  background-color: white;
+  position: relative;
+  top: -309px;
+  right: 685px;
+   
+  }
+  
+  #ImgBolha{
+  width: 632px;
+  height: 500px;
+  position: relative;
+  top: -500px;
+}
+
+  #flor{
+  position: relative;
+  top: -180px;
+  left: 1122px;
+  width: 200px;
+  height: 100px;
+  }
+  
+  #basejpg{
+  	position: relative;
+  	top: -230px;
+  	left: 153px;
+  	width: 749px;
+  	height: 50px;
+  
+  }
+  
+  #imgtitle{
+  	position: relative;
+   top: -181px;
+  	left: -926px;
+  	height: 100px;
+  }
+  	  
+  .linkao{
+  	position: relative;
+  	top: 20px;
+  	left: 5%;
+   color: red;
+   cursor: pointer;
+   font-size: 20px;
+   text-shadow: 0 0 20px #FF0000, 10px -10px 30px #FF0000, -20px -20px 40px #ffae34, 20px -40px 50px #ec760c, -20px -60px 60px #cd4606, 0 -80px 70px #973716, 10px -90px 80px #451b0e; 
+}
+  #bt{
+  width: 200px;
+    
+}
+  .linkao:hover{
+  border-radius: 10px;
+  //background: white;
+  color: white;
+  	  
+}
+ 
+  #h1{
+  font-size: 30px;
+  position: relative;
+  top: -13px;
+  left: 25px;  
+}
+  #h1:hover{
+  color: red;  
+}
+ 
+
+  #Hr{
+  position: relative;
+  top: 204px;
+  left: 0px;
+  border: 100px  solid black;
+}
+  
+  #DivQuadrosInternos{
+  width: 1317px;
+  height: 436px;
+  position: relative;
+  top: 63px;
+  left: -1px;
+  border: 1px solid white;
+  background-color: black;
+  
+  }
+  
+  #DivQuadrosInternos >  #ImgInterna1{
+  width: 370px;
+  height: 435px;
+  border: 1px solid white;
+  position: relative;
+  top: -1px;
+  left: 0px;
+  
+  }
+  
+  #DivQuadrosInternos >  #ImgInterna2{
+  width: 370px;
+  height: 435px;
+  border: 1px solid white;
+  position: relative;
+  top: -1px;
+  left: -4px;  
+  }
+  
+  #DivDentro2Div{
+  width: 569px;
+  height: 435px;
+  //border: 1px solid white;
+  position: relative;
+  top: -442px;
+  left: 744px;
+  }
+  
+  #DivQuadrosInternos > #DivDentro2Div > #H2Quadros > a{
+  color: red;
+  position: relative;
+  left: 175px;
+  top: 25px;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+  #DivQuadrosInternos > #DivDentro2Div > #H2Quadros > a:hover{
+  //font-size: 30px;
+  letter-spacing: 1px;
+  text-decoration: underline;
+  position: relative;
+  top: 25px; 
+  left: 165px;
+  }
+
+  #H3Quadros{
+  color: white;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+  font-size: 18px;
+}
+
+   #H3Quadros:hover{
+   cursor: crosshair; 
+}
+
+
+  #H3Quadros > p:first-letter{
+  font-size: 25px;
+  color: white;
+}
+
+  #DivImagens{
+  border: 1px solid white;
+  width: 1317px;
+  height: 550px;
+  background-color: black;
+  position: relative;
+  left: 17px;
+  top: -415px;
+}
+
+  #DivDentroDivImagens{
+   width: 1317px;
+   height:50px;
+  // border: 1px solid green;
+   position: relative;
+   top: 0px;
+   left: 0px;
+  }
+
+
+ #DivImagens > #DivDentroDivImagens > ul > li{
+  //float: left;
+  width: 150px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: 40px;
+  left: 50px; 
+  //border: 1px solid white; 
+}
+
+   #DivImagens > #DivDentroDivImagens > ul > li:hover{
+   //font-size: 30px;
+   letter-spacing: 1px;
+   text-decoration: underline;
+   position: relative;
+   top: 40px; 
+}
+
+  #DivNoticias{
+  width: 1316px;
+  height: 400px;
+  border: 1px solid white;
+  color: white;
+  position: relative;
+  top: -330px;
+  left: 17px; 
+  }
+  
+  #DivMedia{
+  width: 1313px;
+  height: 350px;
+  border: 1px solid white;
+  color: yellow;
+  position: relative;
+  top: 48px;
+  left: 1px;
+  }
+  
+  .DivsPequenas{
+   width: 250px;
+   height: 330px;
+   border: 1px solid red;
+   color: red;
+   display: inline-table;
+  position: relative;
+  top: 0px;
+  left: 20px;
+  }
+  
+  #H2TitleDivNoticias1{
+  text-align: center;
+  }
+  
+  #H3DivNoticias1 > a{
+  color: blue;
+  text-decoration: underline;
+  }
+  
+  #H3DivNoticias1{
+  color: white;
+  //text-decoration: underline;
+  }
+
+  #H2TitleDivNoticias2{
+  text-align: center; 
+  }
+  
+  #H2TitleDivNoticias3{
+  text-align: center; 
+  }
+  
+  
+  #H2TitleDivNoticias5{
+  text-align: center; 
+  }
+  
+
+  #H2TitleDivNoticias4{
+  text-align: center; 
+  }
+  
+  #Div1DentroDivNoticia{
+  width: 1315px;
+  height: 30px;
+  color: white;
+  border: 1px solid white;
+  position: relative;
+  left: -2px;
+  top: -50px;
+  }
+  
+  
+  #ImgNoticia1{
+  width: 200px;
+  height: 30px;
+  position: relative;
+  top: 0px;
+  left: 1px;
+  }
+  
+  #TitleDivNoticias{
+  text-align: center;
+  position: relative;
+  top: -32px;
+  font-size: 22px;
+  }
+  
+  #TitleDivNoticias:hover{
+  //letter-spacing: 2px;
+  cursor: default; 
+  //font-size: 25px;
+  //position: relative;
+  //top: -35px;
+  }
+
+  .IrAoTopotxt{
+  color: red;
+  position: relative;
+  top: 35px;
+  left: 25px;
+  }
+  
+}
+
+  .Facetxt{
+  color: red;
+  position: relative;
+  left: 1255px;
+  top: 12px;	  
+}
+
+  #Contatojpg{
+  height: 30px;
+  width: 70px;
+  position: relative;
+  left: 1130px;
+  top: -15px;
+  }
+  .Contatotxt{
+  color: red;
+  position: relative;
+  left: 1140px;
+  top: 120px;
+  }
+  
+  #Pessoasjpg{
+  height: 30px;
+  width: 70px;
+  position: relative;
+  left: 1010px;
+  top: -70px;
+  }
+  
+  .Pessoastxt{
+  color: red;
+  position: relative;
+ left: 1010px;
+  top: -70px;
+  //text-shadow: 8px 8px 0 rgba(255,0,180,0.5);
+  }
+  
+  #PenultimaCaixa{
+  width: 1343px;
+  height: 242px;
+  border: 2px solid white;
+  background-color: #1C1C1C;
+  position: relative;
+  top: 20px;
+  left: -17px;
+}
+
+  #hom2{
+  width: 1345px;
+  height: 200px;
+  background-color: white;
+  border: 2px solid red;
+  cursor: pointer;
+  position: relative;;
+  top: -70px;
+  color: red; 
+ font-family: Arial Black; 
+  }
+  
+  #hom2 > ul > li:hover{
+  color: red;
+  font-size: 20px; 
+  text-decoration: underline;
+  position: relative;
+  top: 29px;  
+}
+
+    #hom2 > ul > li:active{
+  text-decoration: none;
+  color: #000000;  
+}
+
+   #hom2 > ul > li:visited{
+   text-decoration: none;
+   color: #333333;
+} 
+
+   #hom2 > ul > li:link{
+   text-decoration: none;
+}
+
+  #hom2 > ul > li{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: 35px;
+  left: 60px;
+  //border-radius: 15px;
+  
+  
+}
+
+    #hom2 > ul > li >a{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  color: red;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  //border-radius: 15px; 
+  
+}
+
+ #hom2 > ul > li > a:hover{
+ //border-radius: 15px;
+  color: #FF0000;
+  text-align: center;
+  font-size: 20px; 
+  text-decoration: underline;
+  position: relative;
+  top: 0px;
+  left: 0px;  
+}
+
+  #hom2 > ul > li > a:active{
+  text-decoration: none;
+  color: #000000;  
+}
+
+  #Diversosjpg{
+  height:50px;
+  width: 120px;
+  position: relative;	
+  top: 10px;
+  left: 1220px;
+  }
+  
+  
+  #H1Acampamento{
+  color: red;
+  text-align: center;  
+  }
+ 
+  

@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>Imagens Jogo GTA San Andreas</title>
+    <meta name="generator" content="Bluefish 2.0.2">
+    <meta name="author" content="Isaque">
+    <meta name="date" content="2014-11-09T23:00:46-0300">
+    <meta name="copyright" content="">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+    <meta http-equiv="content-style-type" content="text/css">
+    <meta http-equiv="expires" content="0">
+    <link rel="stylesheet" href="Css/P%C3%A1ginaImagensJogoJtaSanAndreas.css" style="text/css">
+    <script type="text/javascript" src="Lib/Index.js"> </script>
+  </head>
+  <body>
+    <div id="CorpoImagens"> <img src="Imgs/ImgsJogos/screen11.jpg" id="ImagenTv">
+    </div>
+    <div id="BlocoEsq"> <a href="Imgs/ImgsJogos/screen11.jpg" id="Link1">Imagen
+        Original</a> <a id="LinkDetalhes">Ver Detalhes</a> <a id="Link3">Informações</a>
+      <a href="Jogos.html" id="Link4">Voltar</a> </div>
+    <div id="BlocoNegro">
+      <div id="BlocoDetalhes"> <img src="Imagens/Fechar.png" alt="Fechar" id="fechar">
+        <img src="imgs/ImgsJogos/screen11.jpg" alt="Fundo" id="imgfundoprop">
+        <p> <span id="SpanDetalhes">DETALHES</span><br>
+          <label id="rs">Dimensões:</label> <label id="valor1">640x447px</label><br>
+          <label id="rs">Tamanho:</label> <label id="valor">71,8KB</label><br>
+          <label id="rs">Stylo:</label> <label id="valor">Cenário</label><br>
+          <label id="rs">Qualidade:</label> <label id="valor">Média/Alta</label>
+        </p>
+      </div>
+    </div>
+    <div id="DivInfo"> <span id="SpanInfo">Informações Gerais:</span>
+      <div id="InfoPq"><span style="font-family: Elephant;"><span><span>&nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; As imagens desta página foram<br>
+              &nbsp; retiradas do site original da marca.<br>
+              &nbsp; Os direitos de cada imagen ainda se<br>
+              &nbsp; mantem intactos e não podem ser&nbsp; <br>
+              &nbsp; aleterados sem previa comunicação.<br>
+              &nbsp; <br>
+            </span></span><span><span><br>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              Informaçoes Avançadas:<br>
+              &nbsp;&nbsp;&nbsp; <br>
+              &nbsp; Largura: 640 pixels<br>
+              &nbsp; Altura: 447 pixels<br>
+              &nbsp; Resolução Horizontal: 72dpi<br>
+              &nbsp; </span></span></span><span style="font-family: Elephant;"><span><span><span
+                style="font-family: Elephant;"><span><span>Resolução</span></span></span>
+              Vertical: 72dpi<br>
+              &nbsp; Intensidade de Bits: 24<br>
+              &nbsp; Unidade de Resolução: 02<br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+            </span></span></span><span style="font-family: Elephant;"><span><span><br>
+            </span></span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span></span></span></div>
+    </div>
+  </body>
+</html>

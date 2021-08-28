@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Imagens Jogo GTA San Andreas</title>
+<meta name="generator" content="Bluefish 2.0.2" >
+<meta name="author" content="Isaque" >
+<meta name="date" content="2014-11-09T23:00:23-0300" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+
+  <link rel="stylesheet" href="Css/PáginaImagensJogoJtaSanAndreas.css" style="text/css" ></link>
+  <script type="text/javascript" src="Lib/Index.js"> </script>
+
+  
+</head>
+<body>
+
+  <img src="imgs/015.png" alt="Carregando Imagen" id="ImagenJta1" >
+  <img src="imgs/ImgsJogos/screen11.jpg" alt="Carregando Imagen" id="ImagenJta11" >
+  <a href="imgs/ImgsJogos/screen11.jpg" id="LinkTamanhoOriginal">Origem</a>
+  <a  id="LinkDetalhes">Detalhes</a>
+
+                      <div id="BlocoNegro"></div>
+                      <div id="BlocoDetalhes">
+  
+  
+  <img src="Imagens/Fechar.png" alt="Fechar" id="fechar">
+  <img src="imgs/ImgsJogos/screen11.jpg" alt="Fundo" id="imgfundoprop">
+  
+    <p>
+     
+      <span id="SpanDetalhes">DETALHES</span><br>
+      <label id="rs">Resolussão:</label>
+      <label id="valor1">700x800px</label><br>
+      <label id="rs">Tamanho:</label>
+      <label id="valor">1,2Mb</label><br>
+      <label id="rs">Stylo:</label>
+      <label id="valor">Cenário</label>
+      <label id="rs">Qualidade:</label>
+      <label id="valor">Média/Alta</label>
+    </p>
+  </div>
+
+   
+  
+</body>
+</html>

@@ -1,0 +1,243 @@
+*{
+   margin: 0;
+   padding: 0;	
+}
+
+body{
+   background-color: #FFE7BA;
+	}
+
+  #CorpoImagens{
+    width: 1150px;
+    height: 600px;
+  //border: 1px solid black;
+    margin: 10px;
+  }
+  
+  #ImagenTv{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+  }
+
+  #BlocoEsq{
+    width: 170px;
+    height: 600px;
+    //rder: 1px solid black;
+    position: relative;
+    top: -615px;
+    left: 1170px;
+    text-align: center;
+
+  }
+
+ #Link1{
+  color: black;
+  font-family: cursive;
+  border: 10px solid red;
+  text-align: center;
+  position: relative;
+  top: 15px;
+  cursor: pointer;
+  }
+
+
+ #Link1:hover{
+  border: 10px solid black;
+  color: red;
+ 
+  }
+
+
+  #LinkDetalhes{
+  color: black;
+  font-family: cursive;
+  border: 10px solid red;
+  text-align: center;
+  position: relative;
+  top: 90px;
+  cursor: pointer;
+  }
+
+  #LinkDetalhes:hover{
+  border: 10px solid black;
+  color: red;
+   }
+
+  #Link3{
+  color: black;
+  font-family: cursive;
+  border: 10px solid red;
+  text-align: center;
+  position: relative;
+  top: 165px;
+  cursor: pointer;
+  }
+    #Link3:hover{
+  border: 10px solid black;
+  color: red;
+  }
+
+  #Link4{
+  color: black;
+  font-family: cursive;
+  border: 10px solid red;
+  text-align: center;
+  position: relative;
+  top: 240px;
+  cursor: pointer;
+  }
+
+  #Link4:hover{
+  border: 10px solid black;
+  color: red;
+  }
+
+  #BlocoNegro{
+  display: none;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  z-index:1001;
+  -moz-opacity: 0.8;
+  opacity:.80;
+  filter: alpha(opacity=80);
+  }
+
+  #BlocoDetalhes{
+  display: none;
+  border-radius: 15px;
+  position: absolute;
+  top: 50px;
+  left: 500px;
+  width: 400px;
+  height: 500px;
+  padding: 16px;
+  border: 1px solid black;
+  background-color: #FFE7BA;
+  z-index:1002;
+  overflow: auto;
+  
+  }
+
+  #fechar{
+   position: relative;
+   top: -5px;
+   left: 5px;
+   width: 32px;
+   float: right;
+   cursor: pointer;
+   }
+  
+   #fechar:hover{
+   width: 38px;
+   height: 38px;
+   position: relative;
+   top: -7px;
+   left: 7px;
+    }
+
+    #imgfundoprop{
+    width: 436px;
+    height: 220px;
+    position: absolute; 
+    margin-left: -20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    z-index: -1;  
+    }
+
+        #SpanDetalhes{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    position: relative;
+    left: 105px;
+    top: 255px;
+    font-size: 34px;  
+  }
+
+   #BlocoDetalhes #rs{
+  position: relative;
+  top: 290px;
+  left: 20px;
+  font-size: 20px;  
+  }
+  
+  #BlocoDetalhes #valor{
+  position: relative;
+  top: 290px;
+  left: 25px;
+  font-size: 22px;
+  color: red;
+  font-weight: bold; 
+  }
+  
+  #BlocoDetalhes #valor1{
+  position: relative;
+  top: 290px;
+  left: 25px;
+  font-size: 22px;
+  color: red;
+  font-weight: bold;
+  //text-decoration: line-through; 
+  }
+
+  #DivInfo{
+  display: none;
+  width: 500px;
+  height: 500px;
+  border-radius: 20px;
+  overflow: auto;
+  z-index:1002;
+  padding: 16px;
+  position: absolute;
+  top: 50px;
+  left: 500px;
+  background-color: black;
+  }
+
+  #InfoPq{
+  width: 300px;
+  height: 451px;
+  padding: 10px;
+  //rder: 1px solid red;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 20px;
+  }
+
+  #SpanInfo{
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  position: relative;
+  left: 165px;
+  top: 15px;
+  font-size: 20px;
+  }
+
+  #fechar2{
+   position: relative;
+   top: -5px;
+   left: 5px;
+   width: 32px;
+   float: right;
+   cursor: pointer;
+   }
+  
+   #fechar2:hover{
+   width: 38px;
+   height: 38px;
+   position: relative;
+   top: -7px;
+   left: 7px;
+    }
+
+  
+  

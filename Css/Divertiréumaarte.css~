@@ -1,0 +1,217 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+  background-color: #1C1C1C;
+ 
+}
+
+ #corpo{
+  border: 10px solid white;
+  width: 1310px;
+  height: 1600px;
+  margin: 0 auto; 
+  }
+   #imagenshome{
+  	width: 1270px;
+  	height: 50px;
+  	background-color: red;
+   //border: 5px solid orange;
+  	position: relative;
+  	left: 20px;
+  	top: 20px;
+  	}
+  	
+    #imgtitle{
+  	position: relative;
+   top: 0px;
+  	left:1164px;
+  	height: 30px;
+  }
+
+  	 #hom{
+  width: 1280px;
+  height: 30px;
+  background-color: black;
+  border: 15px solid red;
+  cursor: pointer;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  color: white;  
+}
+
+
+   #hom > ul > li:hover{
+  //border-radius: 15px;
+  //background-color: blue;
+  color: white;
+  text-decoration: underline;  font-size: 22px;
+  position: relative;
+  top: 1px;
+    
+}
+
+  #hom > ul > li{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: 5px;
+  left: 33px; 
+  
+}
+
+  #hom > ul > li >a:hover{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  color: white;
+ text-decoration: underline;
+}
+
+  #hom > ul > li >a{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  color: white;
+}
+
+   #Telao{
+  	width: 520px;
+  	height: 110px;
+  	border: 1px solid white;
+  	//margin: 0 auto;
+  	margin-top: 20px;
+  	margin-left: -1px;
+  	background-color: #EEE5DE;
+  	}
+  	
+  	#Telao:hover{
+  	background-color: black;	
+  		}
+  	
+  	#Telao >#Ovulo{
+  	width: 140px;]
+   height: 98px;	
+  	}
+  	
+  	#H4EspermatozoidesCampeoes{
+  	position: relative;
+  	left:150px;
+  	top: -95px;
+  	font-size: 18px;
+  	font-weight: bold;
+  	color:#EEE5DE;	
+  	}
+  	#H4interno{
+  	color: black;
+  	}
+  	#H4interno{
+  	color: black;
+  	position: relative;
+  	top: 35px;
+  	left: 400px;	
+  	}
+  		
+  	#Teladadireita{
+  	width: 700px;
+  	height: 768px;
+  	background-color: #EEE5DE;
+  	border: 1px solid white;
+  	position: relative;
+  	top:-770px ;
+  	left:	590px;
+  	}
+  	
+  	#H1Planeta{
+  	color: red;
+  	font-size: 18px;
+  	text-align: center;
+  	margin-top: 30px;
+   margin-left: 230px;
+  	border-style: ridge; 
+  	width: 253px;
+  		
+  	}
+  	
+  	#H2GTA{
+  	color: black;
+  	background-color: #8B0000;
+  	margin-top: 25px;
+  		
+  	}
+  	
+  	#DivImagenJogoGTA{
+   width: 696px;
+   height: 200px;
+   border: 2px solid black;
+   margin: 0 auto;	
+  		
+  	}
+  	
+  	#ImagenJta{
+   width: 229px;
+   height: 200px;  	
+  		
+  	}
+  	
+  	#hom2{
+  width: 1280px;
+  height: 35px;
+  background-color: white;
+ // border: 2px solid red;
+  //cursor: pointer;
+  position: relative;;
+  top: 185px;
+  left: 0px;
+  color: red; 
+ font-family: Arial Black; 
+  }
+ 		
+  #hom2 >#Diversosjpg{
+  width: 80px;
+  height: 76px;
+  position: relative;	
+  top: 0px;
+  left: 1240px;
+  //border: 15px solid blue;
+  }
+  	
+  	#DiveLi >ul >li >a:hover{  color: black;
+  text-decoration: underline;
+  	}
+ 
+  #DiveLi >ul >li >a{
+  cursor: pointer;
+  font-weight: bold;
+  color: red;
+ 
+ 
+  	}
+  
+  	#DiveLi >ul >li{
+  //float: left;
+  width: 110px;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: 156px;
+  left: 250px;
+ }
+  		
+  		
+  		
+  		
+  	

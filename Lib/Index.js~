@@ -1,0 +1,18 @@
+  window.onload = function () {
+ var divprop = document.getElementById("BlocoDetalhes");
+ var bloconegro = document.getElementById("BlocoNegro"); 
+ var pegarbotao = document.getElementById("LinkDetalhes");
+ var varfechar = document.getElementById("fechar");
+
+ //alert(pegarbotao);
+  pegarbotao.onclick = function () {
+  bloconegro.setAttribute("style", "display: block");
+  divprop.setAttribute("style", "display: block"); 	
+  //divprop.setAttribute("style", "opacity: 1");
+    }
+ varfechar.onclick = function () {
+ divprop.setAttribute("style", "opacity: none");
+ } 
+
+   
+}

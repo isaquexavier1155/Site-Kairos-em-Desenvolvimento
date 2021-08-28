@@ -1,0 +1,159 @@
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+      title="Wrap Long Lines">
+  </head>
+  <body>
+    <pre>&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta content="text/html; charset=windows-1252" http-equiv="content-type"&gt;
+    &lt;link rel="alternate stylesheet" type="text/css" href="resource://gre-resources/plaintext.css"
+
+      title="Wrap Long Lines"&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;pre&gt;*{
+   margin: 0;
+   padding: 0;	
+}
+
+body{
+   background-color: #FFE7BA;
+	}
+	
+	#ImagenJta1{
+	width: 1200px;
+	height: 650px;	
+	border-style: groove;
+	}
+	
+	#LinkTamanhoOriginal{
+	color: white;
+	border-style: ridge;
+	background-color: black;
+	border-radius: 15px;
+	border-color: red;
+	position: relative;
+	top: -1140px;
+	left: 90px;
+	}
+	
+	#LinkDetalhes{
+	color: white;
+	border-style: ridge;
+	background-color: black;
+	border-radius: 15px;
+	border-color: red;
+	position: relative;
+	top: -1100px;
+	left: -25px;
+	cursor: pointer;
+	}
+	
+	#ImagenJta11{
+	width: 1130px;
+	height: 515px;	
+	position: relative;
+	top: -633px;
+	left: 42px;
+	}<br>
+	
+    #SpanDetalhes{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    position: relative;
+    left: 105px;
+    top: 255px;
+    font-size: 34px;  
+  }
+  
+   #BlocoDetalhes{
+	display: none;
+	border-radius: 15px;
+	position: absolute;
+	top: 50px;
+	left: 500px;
+	width: 400px;
+	height: 500px;
+   padding: 16px;
+	border: 1px solid black;
+	background-color: #FFE7BA;
+	z-index:1002;
+	overflow: auto;
+	
+	}
+  
+  #BlocoNegro{
+	display: none;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: black;
+	z-index:1001;
+	-moz-opacity: 0.8;
+	opacity:.80;
+	filter: alpha(opacity=80);
+	}
+  
+  #BlocoDetalhes #rs{
+  position: relative;
+  top: 290px;
+  left: 20px;
+  font-size: 20px;  
+  }
+  
+  #BlocoDetalhes #valor{
+  position: relative;
+  top: 290px;
+  left: 25px;
+  font-size: 22px;
+  color: red;
+  font-weight: bold; 
+  }
+  
+  #BlocoDetalhes #valor1{
+  position: relative;
+  top: 290px;
+  left: 25px;
+  font-size: 22px;
+  color: red;
+  font-weight: bold;
+  //text-decoration: line-through; 
+  }
+  
+   #BlocoDetalhes #fechar{
+   position: relative;
+   top: -5px;
+   left: 5px;
+   width: 32px;
+   float: right;
+   cursor: pointer;
+   }
+  
+   #BlocoDetalhes #fechar:hover{
+   width: 38px;
+   height: 38px;
+   position: relative;
+   top: -7px;
+   left: 7px;
+  	}
+  	
+  	#imgfundoprop{
+  	width: 436px;
+  	height: 220px;
+  	position: absolute; 
+  	margin-left: -20px;
+  	margin-top: 30px;
+  	border-radius: 10px;
+  	z-index: -1;	
+  		}&lt;/pre&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</pre>
+  </body>
+</html>

@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Objetivo Site</title>
+<meta name="generator" content="Bluefish 2.0.2" >
+<meta name="author" content="Isaque" >
+<meta name="date" content="2014-08-17T01:27:26-0300" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+
+  <link rel="stylesheet" href="Css/Objetivo.css" style="text/css"></link>
+
+
+</head>
+<body>
+
+                       <div id="corpo">
+                     
+      
+  <div id="imagenshome">
+  <img src="Imgs/Title1.jpg" id="imgtitle">
+  </div>
+                        
+<!-- PrimeiroBloco. --> 
+<div id="hom">
+  <ul>
+    <li><a href="Index.html">Home</a></li> 
+    <li><a href="">Biblia</a></li> 
+    <li><a href="">Esportes</a></li> 
+    <li><a href="">Jogos</a></li>
+    <li><a href="">Filmes</a></li>
+    <li><a href="">Sagen</a></li>
+  </ul>
+</div>                 
+                                             
+  <div id="Telao">
+<h1 id="H1Titulo">O que é Projeto Kairos?</h1>
+<h2 id="H2Conteudo">
+<br>
+ É um projeto criado na cidade de Três Coroas(RS), por líderes de células da Comunidade Cristã do município.
+  Com o objetivo, carimbado por Deus, de fazer com que jovens se tornem pessoas de valor, segundo a vontade de Deus. Tentamos ensinar e aprender ao mesmo tempo sobre o sentido da vida.
+Revelamos que todos nós temos dificuldades, mas também temos as mais lindas habilidades dadas por nosso senhor. 
+Usamos o esporte para chamar a atenção dos jovens, esportes  que vão do  futebol ao xadrez.
+<p>Através do dialogo queremos passar a eles lições de vida, também através de testemunhos e historias das mais diversas áreas.
+Explicamos que e sempre necessário acreditar que os sonhos são possíveis...
+Que bens materiais não são as coisas mais importantes da vida. E que sem jesus não chegamos a lugar nenhum.
+Queremos passar mensagens de fé e esperança ao coração de cada um.<p>Não buscamos lucro nesse projeto e sim resultados, resultados positivos na vida de cada jovem que participar.
+Com o esporte ensinamos, e aprendemos ao mesmo tempo, pois podemos compartilhar uns com os outros as mais puras sensações da vida. Ali participando o jovem tem a possibilidade de por em prática o que aprendeu, comprometendo-se a respeitar seu adversário em qualquer circunstância.
+
+</h2>
+<hr>
+<h4 id="H4Veja">Veja<br> as <br>Curiosidades<br> Abaixo!!</h4>
+<img src="Imgs/Deus.jpg" alt="PhotoDeus" id="PhotoDeus" >
+  <ul>
+    <li><a href="">Onde fica o Projeto Kairos?</a></li>
+    <li><a href="Index.html">De onde vem a palavra Kairos?</a></li>
+    <li><a href="">Qual a idade permitida no projeto?</a></li>
+    <li><a href="">Kairos e Facebook</a></li>
+    <li><a href="">A arca de Nóe foi encontrada</a></li>
+    <li><a href="">Jesus Fez quantos milagres afinal?</a></li>
+    <li><a href="">Quantos irmãos crentes existem no planeta Terra?</a></li>
+    <li><a href="">Porque Satanás foi lançado fora do mundo Celestial?</a></li>
+    <li><a href="">Deus estava no Navio Titanic?</a></li>
+  </ul>
+  
+  </div>
+<!-- SextoBloco Rodapé.. -->
+  <div id="hom2">
+  <img src="Imgs/BesouroFuradoIXS.jpg" alt="PhotoFace" id="Diversosjpg"/>
+</div> 
+
+
+<div id="DiveLi">
+   <ul>
+      <li><a href="">Ir Ao Topo/</a></li>
+      <li><a href="">Biblia/</a></li></li>
+      <li><a href="">Esportes/</a></li></li>
+      <li><a href="">Jogos/</a></li></li>
+      <li><a href="">Filmes/</a></li></li>
+      <li><a href="">Diversão/</a></li></li>
+    </ul>
+  </div>
+
+                        </div>
+
+
+</body>
+</html>

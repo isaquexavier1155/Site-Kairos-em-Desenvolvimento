@@ -1,0 +1,325 @@
+*{
+  margin: 0;
+  padding: 0;	
+}
+
+
+body{
+  background-color: #1C1C1C;
+ 
+}
+
+ #corpo{
+  border: 10px solid white;
+  width: 1310px;
+  height: 1820px;
+  margin: 0 auto; 
+  }
+   #imagenshome{
+  	width: 1270px;
+  	height: 50px;
+  	background-color: red;
+   //border: 5px solid orange;
+  	position: relative;
+  	left: 20px;
+  	top: 20px;
+  	}
+  	
+    #imgtitle{
+  	position: relative;
+   top: 0px;
+  	left:1164px;
+  	height: 30px;
+  }
+
+  	 #hom{
+  width: 1280px;
+  height: 30px;
+  background-color: black;
+  border: 15px solid red;
+  cursor: pointer;
+  position: relative;
+  left: 0px;
+  top: 0px;
+  color: white;  
+}
+
+
+   #hom > ul > li:hover{
+  //border-radius: 15px;
+  //background-color: blue;
+  color: white;
+  text-decoration: underline;  font-size: 22px;
+  position: relative;
+  top: 1px;
+    
+}
+
+  #hom > ul > li{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: 5px;
+  left: 33px; 
+  
+}
+
+  #hom > ul > li >a:hover{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  color: white;
+ text-decoration: underline;
+}
+
+  #hom > ul > li >a{
+  //float: left;
+  width: 200px;
+  cursor: pointer;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  color: white;  }
+  
+  #ImagenVoltar{
+  width: 60px;
+  height: 15px;
+  position: relative;
+  left: 1250px;  
+  top: -1765px;	
+  }
+  
+  #ImagenVoltar:hover{
+  width: 65px;
+  height: 19px;
+  position: relative;
+  left: 1250px;  
+  top: -1767px;	
+  }
+  		
+  	#Teladadireita{
+  	width: 900px;
+  	height: 400px;
+  	background-color: #FFE7BA;
+  	border: 1px solid white;
+  	margin: 0 auto;
+   //position: relative;
+  	//top:-10px ;
+  	//left:	590px;
+  	}
+  	
+  	#Teladadireita2{
+  	width: 900px;
+  	height: 400px;
+  	background-color: #FFE7BA;
+  	border: 1px solid white;
+  	margin: 0 auto;
+   position: relative;
+  	//top:-10px ;
+  	//left:	590px;
+  	}
+  	
+  	#Teladadireita3{
+  	width: 900px;
+  	height: 400px;
+  	background-color: #FFE7BA;
+  	border: 1px solid white;
+  	margin: 0 auto;
+   //position: relative;
+  	//top:-10px ;
+  	//left:	590px;
+  	}
+  	
+  	#Teladadireita4{
+  	width: 900px;
+  	height: 400px;
+  	background-color: #FFE7BA;
+  	border: 1px solid white;
+  	margin: 0 auto;
+   //position: relative;
+  	//top:-10px ;
+  	//left:	590px;
+  	}
+  	
+  	#H2GTA{
+  	color: black;
+  	background-color: #8B0000;
+  	margin-top: 25px;
+  		
+  	}
+  	
+  	#DivImagenJogoGTA{
+   width: 758px;
+   height: 200px;
+   border: 2px solid black;
+   margin: 0 auto;	
+  		
+  	}
+  	
+  	#ImagenJta{
+   width: 250px;
+   height: 200px;  	
+  		
+  	}
+  	
+  	#H4Detalhes{
+  	font-family: Franklin Gothic Medium;
+  	margin-left: 10px;
+  	margin-top: 5px;		
+  	}
+  	
+  	h5{
+  	margin-left: 10px;	
+  	}
+  	
+   #UM{
+   color: white;
+   position: relative;
+   top: 50px;
+   left: 500px;	
+  	}  
+  	
+  	#Dois{
+   color: red;
+   position: relative;
+   top: 40px;
+   left: 510px;
+    border-style: dashed;	
+  	}  
+  	#Tres{
+   color: white;
+   position: relative;
+   top: 50px;
+   left: 520px;	
+  	}  
+  	#Quatro{
+   color: white;
+   position: relative;
+   top: 50px;
+   left: 530px;	
+  	}  
+  	#Cinco{
+   color: white;
+   position: relative;
+   top: 50px;
+   left: 540px;	
+  	}
+  	#Seis{
+   color: white;
+   position: relative;
+   top: 50px;
+   left: 550px;	
+  	}    	
+  	
+   #UM:hover{
+   color: blue;
+   text-decoration: underline;	
+  	}  
+  	
+  	#Dois:hover{
+   color: red;
+   text-decoration: underline;	
+  	}  
+  	#Tres:hover{
+   color: blue;
+   text-decoration: underline;		
+  	}  
+  	#Quatro:hover{
+   color: blue;
+   text-decoration: underline;		
+  	}  
+  	#Cinco:hover{
+   color: blue;
+   text-decoration: underline;		
+  	}
+  	#Seis:hover{
+   color: blue;
+   text-decoration: underline;		
+  	}    	  	
+  	
+  	#Proxxima{
+  	width: 100px;
+  	height: 30px;
+  	color: red;
+  	position: relative;
+  	left: 1200px;
+  	top: 20px;	
+  	
+  	}
+  	
+  	#Proxxima:hover{
+  	width: 100px;
+  	height: 40px;
+  	color: red;
+  	position: relative;
+  	left: 1200px;
+  	top: 18px;	
+  	
+  	}
+  	
+  	#VermaisJPG{
+  	width: 50px;
+  	height: 20px;
+  	position: relative;
+  	top: -13px;
+  	left: 840px;	
+  	}
+  	
+  	#VermaisJPG:hover{
+  	width: 50px;
+  	height: 30px;	
+  	position: relative;
+  	top: -17px;
+  	border: 1px solid black;
+  	}
+  	
+  	#hom2{
+  width: 1349px;
+  height: 35px;
+  background-color: white;
+ // border: 2px solid red;
+  //cursor: pointer;
+  position: relative;;
+  top: -26px;
+  left: 0px;
+  color: red; 
+ font-family: Arial Black; 
+  }
+ 		
+  #hom2 >#Diversosjpg{
+  width: 80px;
+  height: 76px;
+  position: relative;	
+  top: 0px;
+  left: 1240px;
+  //border: 15px solid blue;
+  }
+  	
+  	#DiveLi >ul >li >a:hover{  color: black;
+  text-decoration: underline;
+  	}
+ 
+  #DiveLi >ul >li >a{
+  cursor: pointer;
+  font-weight: bold;
+  color: red;
+ 
+ 
+  	}
+  
+  	#DiveLi >ul >li{
+  //float: left;
+  width: 110px;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  top: -50px;
+  left: 250px;
+ }8

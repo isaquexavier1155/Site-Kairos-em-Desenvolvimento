@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Objetivo Site</title>
+<meta name="generator" content="Bluefish 2.0.2" >
+<meta name="author" content="Isaque" >
+<meta name="date" content="2014-08-17T02:40:41-0300" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+
+  <link rel="stylesheet" href="Css/HistoriasMorri-rir.css" style="text/css"></link>
+
+
+</head>
+<body>
+
+                       <div id="corpo">
+                     
+      
+  <div id="imagenshome">
+  <img src="Imgs/Title1.jpg" id="imgtitle">
+  </div>
+                        
+<!-- PrimeiroBloco. --> 
+<div id="hom">
+  <ul>
+    <li><a href="Index.html">Home</a></li> 
+    <li><a href="">Biblia</a></li> 
+    <li><a href="">Esportes</a></li> 
+    <li><a href="">Jogos</a></li>
+    <li><a href="">Filmes</a></li>
+    <li><a href="">Sagen</a></li>
+  </ul>
+</div>                 
+                                             
+<div id="Telao">
+  <h1 id="H1Titulo">Historias Morri-Rir</h1>
+  <h2 id="H2Conteudo">
+  Nessa página vocês podem se divertir com incríveis histórias dos mais variados assuntos. Historias escritas de uma forma simples e inovadora. Foram escritas do
+  jeito de falar, sem respeitar aquelas regras chatas de ortografia. Além de serem historias bem curtinhas e divertidas. Chega de chatice de ler aqueles textos e
+  historias complexas e difíceis de entender. Essas historias foram escritas de uma forma em que todos podem ler e entender sem estresse.
+  </h2>
+  <img src="Imgs/Divirtam-se2.gif" alt="Imagen de Ixs" />
+  <hr>
+  <div id="DiveRetangular">
+  <h4 id="H4Categorias">Categorias</h4>
+  <hr>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Animais</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Ação</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Aventura</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Arriados</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Morte</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">No Mato</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Terror</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Curiosidades</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Extra-Terrestres</a></h4>
+  <h4 class="LinksCategoricos1"><a href="www.goggle.com">Humanidade</a></h4>
+  
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">Universo</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">Ação</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">Aventura</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">Arriados</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">Morte</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">No Mato</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">Terror</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">Morte</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">No Mato</a></h4>
+  <h4 class="LinksCategoricos2"><a href="www.goggle.com">Terror</a></h4>
+  </div>
+  <img src="Imgs/Caixa3D1.jpg" alt="PhotoDeus" id="Caixa3d" ><hr>
+  <hr>
+</div>
+
+<!-- SextoBloco Rodapé.. -->
+<div id="hom2">
+  <img src="Imgs/BesouroFuradoIXS.jpg" alt="PhotoFace" id="Diversosjpg"/>
+</div> 
+
+
+<div id="DiveLi">
+   <ul>
+      <li><a href="">Ir Ao Topo/</a></li>
+      <li><a href="">Biblia/</a></li></li>
+      <li><a href="">Esportes/</a></li></li>
+      <li><a href="">Jogos/</a></li></li>
+      <li><a href="">Filmes/</a></li></li>
+      <li><a href="">Diversão/</a></li></li>
+    </ul>
+</div>
+
+                        </div>
+
+
+</body>
+</html>
