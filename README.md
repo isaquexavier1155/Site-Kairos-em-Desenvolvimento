@@ -69,19 +69,8 @@ Efeitos visuais: Java Script<BR>
   <a href="https://www.buymeacoffee.com/kakacordovil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 </p>
 
-## 💻 Technologies & Tools
-
-
-
-## ⭐ GitHub Stats
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
-</p>
-
 
 <div align="center">
 <h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+<img src="https://media1.giphy.com/media/OxCVIkMpdVZdV7rSLl/giphy.gif?cid=790b7611428bfdf9396f8d2ebccb5cd153a540ae738e1d7c&rid=giphy.gif&ct=g" width="400px" />
 </div>
