@@ -46,20 +46,14 @@ Efeitos visuais: Java Script<BR>
 
 </p>
 
+
+
 <p align="center">
-  I'm an <strong>Icamiaba</strong> in tech!<br />
+  👩‍💻  Stack: <strong>Back-end Java, Front-end JavaScript, HTML, CSS.</strong>
 </p>
 
 <p align="center">
-  💼 Skills: <strong>Overcome obstacles with a big smile.</strong>
-</p>
-
-<p align="center">
-  👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS and React.</strong>
-</p>
-
-<p align="center">
-  🚀  Learning: <strong>Java, C++, JavaScript, PHP, Typescript, React, Webflux, Go, SASS, UI, UX.</strong>
+  🚀  Learning: <strong>Java, Spring boot, Spring Data, Maven, JavaScript, Docker, PostgreSQL.</strong>
 </p>
 
 <p align="center">
