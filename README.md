@@ -23,15 +23,19 @@ Efeitos visuais: Java Script<BR>
 
 *obs:  não utilizei nenhum framework para desenvolver esse site, foi todo desenvolvido usando ferramentas nativas.<BR>
 
-​<div align="center">
-<img src="https://user-images.githubusercontent.com/55030160/177386938-13e2bc6d-088e-484f-a17d-eaf3fcb2b3f1.png
-" width="700px" />
-</div>
 
 
 <span align="center">
 
 ##Imagens Site Kairos 👋 
+
+​<div align="center">
+<img src="https://user-images.githubusercontent.com/55030160/177393233-7529931e-b206-4a03-ad5d-5dbaf4d56e98.png
+" width="700px" />
+</div>
+
+
+![SiteKairos-Cabecalho](https://user-images.githubusercontent.com/55030160/177393233-7529931e-b206-4a03-ad5d-5dbaf4d56e98.png
 
 </span>
 
