@@ -35,11 +35,10 @@ Efeitos visuais: Java Script<BR>
 
 </span>
 
-
-<div align="center">
-<img src="https://desblogada.files.wordpress.com/2021/05/kaka-cordovil-java-developer-2.gif" width="700px" />
+​<div align="center">
+<img src="![SiteKairos-Cabecalho](https://user-images.githubusercontent.com/55030160/177386938-13e2bc6d-088e-484f-a17d-eaf3fcb2b3f1.png)
+" width="700px" />
 </div>
-
 
 <p align="center">
   Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm doing my master in <strong>Computer Engineer</strong>.<br />
@@ -80,20 +79,7 @@ Efeitos visuais: Java Script<BR>
 
 ## 💻 Technologies & Tools
 
-<p align="center">
-  
- <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-C sharp-181717?style=flat-square&logo=dotnet" height="25"/>
- <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/> 
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
- <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
- <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
- <img src="https://img.shields.io/badge/-Blazor-4B088A?style=flat-square&logo=blazor" height="25"/>
 
-
-</p>
 
 ## ⭐ GitHub Stats
 
