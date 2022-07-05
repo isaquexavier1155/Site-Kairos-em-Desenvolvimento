@@ -30,8 +30,7 @@ Efeitos visuais: Java Script<BR>
 ##Imagens Site Kairos 👋 
 
 ​<div align="center">
-<img src="https://user-images.githubusercontent.com/55030160/177393233-7529931e-b206-4a03-ad5d-5dbaf4d56e98.png
-" width="700px" />
+<img src="https://user-images.githubusercontent.com/55030160/177393233-7529931e-b206-4a03-ad5d-5dbaf4d56e98.png" width="700px" />
 </div>
 
 
