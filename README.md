@@ -30,11 +30,11 @@ Efeitos visuais: Java Script<BR>
 ##Imagens Site Kairos 👋 
 
 ​<div align="center">
-<img src="https://user-images.githubusercontent.com/55030160/177393233-7529931e-b206-4a03-ad5d-5dbaf4d56e98.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/55030160/177394976-1ca445ad-8313-4247-b229-0281e53e2305.png" width="700px" />
 </div>
 <BR>
 ​<div align="center">
-<img src="https://user-images.githubusercontent.com/55030160/177394118-331283cb-5ada-4fd6-85a4-e1754715f415.png" width="700px" />
+<img src="https://user-images.githubusercontent.com/55030160/177395081-b7360475-b100-4d1e-aef2-3676d8d0d4d8.png" width="700px" />
 </div>
 
 
