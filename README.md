@@ -31,7 +31,7 @@ Efeitos visuais: Java Script<BR>
 
 <span align="center">
 
-##  Hellooo Helloo World! 👋 
+##Imagens Site Kairos 👋 
 
 </span>
 
@@ -41,7 +41,7 @@ Efeitos visuais: Java Script<BR>
 </div>
 
 <p align="center">
-  Heey! So good to see you here. <br>I'm Kaká, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm doing my master in <strong>Computer Engineer</strong>.<br />
+  Hi! So good to see you here. <br>I'm Isaque, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, back-end Java.<br />
 <strong>Start to developing </strong>bring me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
 
 </p>
