@@ -24,7 +24,7 @@ Efeitos visuais: Java Script<BR>
 *obs:  não utilizei nenhum framework para desenvolver esse site, foi todo desenvolvido usando ferramentas nativas.<BR>
 
 ​<div align="center">
-<img src="![SiteKairos-Cabecalho](https://user-images.githubusercontent.com/55030160/177386938-13e2bc6d-088e-484f-a17d-eaf3fcb2b3f1.png)
+<img src="https://user-images.githubusercontent.com/55030160/177386938-13e2bc6d-088e-484f-a17d-eaf3fcb2b3f1.png
 " width="700px" />
 </div>
 
