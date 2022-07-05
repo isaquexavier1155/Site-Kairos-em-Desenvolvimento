@@ -16,11 +16,11 @@ Como Usar:
 *Atenção! 
 NÃO renomear os arquivos ou removê-los das pastas em que estão, isso causara a quebra do projeto.
 
-Detalhes do projeto:
-Linguagem usada: Java Script
-Estilo da página: CSS (Cascading Style Sheets)
-Efeitos visuais: Java Script
+Detalhes do projeto:<BR>
+Linguagem usada: Java Script<BR>
+Estilo da página: CSS (Cascading Style Sheets)<BR>
+Efeitos visuais: Java Script<BR>
 
-obs: não utilizei nehum framework para desenvolver esse site, foi todo desenvolvido usando ferramentas nativas.
+*obs:  não utilizei nehum framework para desenvolver esse site, foi todo desenvolvido usando ferramentas nativas.
 
 
