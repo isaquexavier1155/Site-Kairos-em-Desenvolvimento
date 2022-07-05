@@ -32,9 +32,12 @@ Efeitos visuais: Java Script<BR>
 ​<div align="center">
 <img src="https://user-images.githubusercontent.com/55030160/177393233-7529931e-b206-4a03-ad5d-5dbaf4d56e98.png" width="700px" />
 </div>
+<BR>
+​<div align="center">
+<img src="https://user-images.githubusercontent.com/55030160/177394118-331283cb-5ada-4fd6-85a4-e1754715f415.png" width="700px" />
+</div>
 
 
-![SiteKairos-Cabecalho](https://user-images.githubusercontent.com/55030160/177393233-7529931e-b206-4a03-ad5d-5dbaf4d56e98.png
 
 </span>
 
